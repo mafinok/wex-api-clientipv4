@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='wex-api',
-    author='qweeze',
-    author_email='qweeeze@gmail.com',
-    version='0.1.6',
+    name='wex-api_ipv4',
+    author='mafinok',
+    author_email='mafinok@gmail.com',
+    version='1.0',
     description='wex.nz exchange API client',
     long_description='A python client for https://wex.nz cryptocurrency exchange',
     url='https://github.com/mafinok/wex-api-clientipv4',
