@@ -7,6 +7,6 @@ setup(
     version='0.1.6',
     description='wex.nz exchange API client',
     long_description='A python client for https://wex.nz cryptocurrency exchange',
-    url='https://github.com/qweeze/wex-api-client',
+    url='https://github.com/mafinok/wex-api-clientipv4',
     packages=find_packages('.')
 )
